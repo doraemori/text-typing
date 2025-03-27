@@ -25,9 +25,9 @@
           /**
            * The milli seconds of effect time.<br />
            * エフェクトの実行時間（ミリ秒）です。
-           * @default 600
+           * @default 800
            */
-          this.duration = 600;
+          this.duration = 800;
           this._isRunning = false;
           this._originalStr = "";
           this._originalLength = 0;
